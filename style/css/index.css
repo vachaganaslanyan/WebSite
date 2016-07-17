@@ -1,0 +1,32 @@
+body{
+	background-color: 	#33e3c4;
+}
+
+
+
+.gap-right{
+	margin-right: 10px;
+	margin-bottom: 50px;
+}
+
+.container-fluid{
+	background-color: 	#33e3c4;
+}
+
+h1{
+	margin-bottom: 50px;
+}
+
+/*
+.form-horizontal h1{
+	height: 0px;
+	margin-bottom: 0px;
+}
+
+.row{
+	background-color: #74eff9;
+}
+
+/*.form-horizontal, .form-group, body{
+	background-color: 	#74f9c1;
+}*/
